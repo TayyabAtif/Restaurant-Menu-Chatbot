@@ -1,0 +1,20 @@
+{
+    "menu": [
+      {
+        "item": "Margherita Pizza",
+        "description": "Classic pizza with tomato sauce, mozzarella, and basil.",
+        "price": "$10"
+      },
+      {
+        "item": "Caesar Salad",
+        "description": "Crisp romaine lettuce with Caesar dressing, croutons, and parmesan.",
+        "price": "$7"
+      },
+      {
+        "item": "Spaghetti Carbonara",
+        "description": "Spaghetti with pancetta, egg, black pepper, and pecorino cheese.",
+        "price": "$12"
+      }
+    ]
+  }
+  
